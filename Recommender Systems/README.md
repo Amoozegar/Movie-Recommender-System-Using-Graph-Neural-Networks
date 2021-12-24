@@ -1,5 +1,5 @@
 # Movie Recommender System via Graph Neural Network
-### Deep Learning Final Project - Team: AI Pioneers
+### Deep Learning Final Project 
 
 This respository provides python code, google co-lab notebooks, graphs and outputs for the application of Graph Neural Networks for Recommender Systems. It contains three Google Colab notebooks
 - data-eng.ipynb
